@@ -18,7 +18,7 @@
 [![Cyril Olanolan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyrilOlanolan&background=272822&ring=DDFFBC&currStreakLabel=DDFFBC&dates=DFD8C8&sideLabels=DFD8C8&currStreakNum=FFDD6C&sideNums=DDFFBC&border=75715E&fire=FFDD6C&stroke=DFD8C8)](https://github.com/CyrilOlanolan)
 
 <!-- GITHUB STATISTICS -->
-[![CyrilOlanolan's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=CyrilOlanolan&count_private=true&include_all_commits=true&show_icons=true&title_color=DDFFBC&text_color=DFD8C8&icon_color=75715e&bg_color=272822&border_color=75715e&custom_title=CyrilOlanolan's%20Statistics)](https://github.com/CyrilOlanolan)
+<!-- [![CyrilOlanolan's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=CyrilOlanolan&count_private=true&include_all_commits=true&show_icons=true&title_color=DDFFBC&text_color=DFD8C8&icon_color=75715e&bg_color=272822&border_color=75715e&custom_title=CyrilOlanolan's%20Statistics)](https://github.com/CyrilOlanolan) -->
 
 <!-- TOP LANGUAGES CARD -->
 <!-- [![CyrilOlanolan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilOlanolan&layout=compact)](https://github.com/CyrilOlanolan) -->
