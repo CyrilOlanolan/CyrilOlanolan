@@ -12,6 +12,12 @@
 
 </div>
 
+<!-- PORTFOLIO -->
+<div align="center" style="margin-bottom: 1rem">
+<h3>CHECK OUT MY PORTFOLIO</h3>
+<a href="https://cyrilolanolan.vercel.app">cyrilolanolan.vercel.app</a>
+</div>
+
 <div align="center">
 
 <!-- GITHUB STREAK -->
